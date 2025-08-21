@@ -6,7 +6,7 @@ namespace DotNetApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Fixed bugs");
+            Console.WriteLine("Fixed bugs and made some chnages");
         }
     }
 }
